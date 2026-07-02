@@ -326,7 +326,7 @@ The script:
 
 ---
 
-## 5. How to Run the Grad-CAM Quick Test
+## 5. How to Run the Quick Test
 
 ### Step 1: Prepare an example image
 
