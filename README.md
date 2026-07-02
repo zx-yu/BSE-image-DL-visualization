@@ -535,5 +535,3 @@ MATLAB and its toolboxes are proprietary software. The author-developed scripts 
 When using or adapting this code, please cite the associated research article:
 
 *Quantitative recognition and analysis of rock microstructure deterioration under freeze-thaw cycles: A metal-intrusion-integrated deep-learning approach*
-
-After publication, replace the title-only entry above with the complete bibliographic citation and DOI.
